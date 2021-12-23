@@ -1,3 +1,113 @@
+button {
+  margin-top: 1rem;
+  border-radius: 5px;
+  padding: 15px 35px 15px 35px;
+  color: white;
+  background-color: #38cc8c;
+  border: #38cc8c;
+}
+button:hover {
+  background-color: #6ce96c;
+}
 
+form {
+  background-color: white;
+  margin-top: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 5px 0 0 rgba(0, 0, 0, 0.15);
+}
+
+input {
+  margin-top: 15px;
+  padding: 15px;
+  width: 75%;
+}
+
+#container {
+  padding: 4rem 20px 0 20px;
+  text-align: center;
+}
+@media (min-width: 700px) {
+  #container {
+    display: flex;
+    margin-top: 8%;
+    width: 90%;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-image: url(https://form-validation-signup.netlify.app/images/bg-intro-mobile.png);
+  background-color: #ff7a7a;
+  color: white;
+}
+
+#free {
+  padding: 0.5px 25px 0.5px 25px;
+  margin-top: 2.7rem;
+  background-color: #6055a5;
+  border-radius: 10px;
+  box-shadow: 0 5px 0 0 rgba(0, 0, 0, 0.15);
+}
+
+#bold {
+  color: #b9b6d3;
+  font-size: x-small;
+  padding: 0 25px 25px 25px;
+}
+
+#red {
+  color: #ff7a7a;
+}
+
+#fix {
+  width: 95%;
+}
+@media (min-width: 700px) {
+  #fix {
+    width: 75%;
+  }
+}
+
+@media (min-width: 700px) {
+  header {
+    text-align: left;
+    margin-top: 15%;
+  }
+}
+
+@media (min-width: 700px) {
+  #break {
+    width: 800px;
+  }
+}
+
+@media (min-width: 700px) {
+  h1 {
+    width: 45%;
+  }
+}
+
+img {
+  position: absolute;
+  right: 60px;
+  transform: translateY(110%);
+}
+@media (min-width: 700px) {
+  img {
+    right: 10%;
+  }
+}
+
+#first-p, #four-p, #third-p, #sec-p {
+  opacity: 1;
+  color: #ff7a7a;
+  margin: 0 17px;
+  font-size: x-small;
+  text-align: end;
+}
 
 /*# sourceMappingURL=imports.css.map */

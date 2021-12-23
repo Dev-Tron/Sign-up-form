@@ -1,0 +1,85 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url(https://form-validation-signup.netlify.app/images/bg-intro-mobile.png);
+    background-color: $color-prime-red;
+    color: $white;
+ 
+}
+
+#free {
+    padding: .5px 25px .5px 25px;
+    margin-top: 2.7rem;
+    background-color: hsl(248, 32%, 49%);
+    border-radius: 10px;
+    box-shadow: 0 5px 0 0 rgba(0, 0, 0, 0.15)
+
+}
+
+#bold {
+    color: hsl(246, 25%, 77%);
+    font-size: x-small;
+    padding: 0 25px 25px 25px;
+}
+
+#red {
+    color: $color-prime-red;
+}
+
+#fix {
+    width: 95%;
+
+    @media #{$brk-narrow} {
+        width: 75%;
+    }
+}
+
+header {
+    @media #{$brk-narrow} {
+        text-align: left;
+        margin-top: 15%;
+    }
+    
+}
+
+#break {
+    @media #{$brk-narrow} {
+        width: 800px;
+    }
+}
+
+h1 {
+    @media #{$brk-narrow} {
+        width: 45%;
+    }
+}
+
+img {
+    position: absolute;
+    right: 60px;
+    transform: translateY(110%);
+
+    @media #{$brk-narrow} {
+        right: 10%;
+    }
+    
+}
+
+#first-p {
+    opacity: 1;
+    color: $color-prime-red;
+    margin: 0 17px;
+    font-size: x-small;
+    text-align: end;
+}
+
+#sec-p {
+    @extend #first-p;
+};
+
+#third-p {
+    @extend #first-p;
+}
+
+#four-p {
+    @extend #first-p;
+}

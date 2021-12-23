@@ -1,0 +1,13 @@
+button {
+    margin-top: 1rem;
+    border-radius: 5px;
+    padding: 15px 35px 15px 35px;
+    color: $white;
+    background-color: $color-prime-green;
+    border: $color-prime-green;
+
+    &:hover {
+        background-color: rgb(108, 233, 108);
+    }
+}
+

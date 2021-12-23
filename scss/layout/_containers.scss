@@ -1,0 +1,10 @@
+#container {
+    padding: 4rem 20px 0 20px;
+    text-align: center;
+ 
+    @media #{$brk-narrow} {
+    display: flex;
+    margin-top: 8%;
+    @include center;
+    }
+}
