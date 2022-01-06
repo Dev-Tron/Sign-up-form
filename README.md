@@ -32,6 +32,8 @@ Users should be able to:
 
 ![](https://github.com/Dev-Tron/Sign-up-form/blob/main/images/Screenshot%202022-01-06%20at%2005-28-23%20Frontend%20Mentor%20Intro%20component%20with%20sign%20up%20form.png)
 
+![](https://github.com/Dev-Tron/Sign-up-form/blob/main/images/Screenshot%202022-01-06%20at%2005-34-28%20Frontend%20Mentor%20Intro%20component%20with%20sign%20up%20form.png?raw=true)
+
 ### Links
 
 - Solution URL: https://github.com/Dev-Tron/Sign-up-form.gitcom)
