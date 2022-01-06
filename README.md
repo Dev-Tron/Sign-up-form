@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-/Users/keytronbrown/Downloads/Screenshot 2021-12-23 at 06-54-21 Frontend Mentor Intro component with sign up form.png
+![](https://github.com/Dev-Tron/Sign-up-form/blob/main/images/Screenshot%202022-01-06%20at%2005-28-23%20Frontend%20Mentor%20Intro%20component%20with%20sign%20up%20form.png)
 
 ### Links
 
